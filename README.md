@@ -1,4 +1,8 @@
 # Advanced-SQL
+
+## Welcome to my project.  
+## The answers to the problems mentioned below you can find in Google Spreadsheets file: [view](https://docs.google.com/spreadsheets/d/1HiqwuEfvLNU_Veos27v7tXG5PiagUH-hUwxksnwW-8Y/edit?gid=1222301467#gid=1222301467)
+
 ## Task T1.1
 **Problem:** Create a detailed overview of all individual customers (defined by `customerType = 'I'` and/or stored in an individual table).
 
